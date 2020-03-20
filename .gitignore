@@ -1,0 +1,11 @@
+.idea/
+logs/
+target/
+.classpath
+.setting
+.settings
+.project
+*.iml
+*.versionsBackup
+.factorypath
+.springBeans
